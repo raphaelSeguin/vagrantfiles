@@ -1,7 +1,6 @@
 # Ma Machine Virtuelle
 ### CentOS 7
-RAM: 2048Mo
-CPUS: 2
+2 cpus, 2048Mo
 - git
 - ansible
 - docker
